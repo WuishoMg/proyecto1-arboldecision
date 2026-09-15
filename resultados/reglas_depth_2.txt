@@ -1,0 +1,10 @@
+|--- color_intensity <= 3.82
+|   |--- ash <= 3.00
+|   |   |--- class: 1
+|   |--- ash >  3.00
+|   |   |--- class: 0
+|--- color_intensity >  3.82
+|   |--- flavanoids <= 1.58
+|   |   |--- class: 2
+|   |--- flavanoids >  1.58
+|   |   |--- class: 0

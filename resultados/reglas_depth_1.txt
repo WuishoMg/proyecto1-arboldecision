@@ -1,0 +1,4 @@
+|--- color_intensity <= 3.82
+|   |--- class: 1
+|--- color_intensity >  3.82
+|   |--- class: 0
